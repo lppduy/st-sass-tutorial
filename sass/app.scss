@@ -1,0 +1,11 @@
+$borderColor: orange;
+$bgColor: gray;
+
+body {
+  background-color: $bgColor;
+}
+
+h3 {
+  color: red;
+  border: 2px solid $borderColor;
+}
